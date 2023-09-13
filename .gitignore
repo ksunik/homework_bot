@@ -1,0 +1,303 @@
+# Byte-compiled / optimized / DLL files 
+2
+__pycache__/ 
+3
+*.py[cod] 
+4
+*$py.class 
+5
+ 
+6
+# C extensions 
+7
+*.so 
+8
+ 
+9
+# Distribution / packaging 
+10
+.Python 
+11
+build/ 
+12
+develop-eggs/ 
+13
+dist/ 
+14
+downloads/ 
+15
+eggs/ 
+16
+.eggs/ 
+17
+lib/ 
+18
+lib64/ 
+19
+parts/ 
+20
+sdist/ 
+21
+var/ 
+22
+wheels/ 
+23
+pip-wheel-metadata/ 
+24
+share/python-wheels/ 
+25
+*.egg-info/ 
+26
+.installed.cfg 
+27
+*.egg 
+28
+MANIFEST 
+29
+ 
+30
+# PyInstaller 
+31
+#  Usually these files are written by a python script from a template 
+32
+#  before PyInstaller builds the exe, so as to inject date/other infos into it. 
+33
+*.manifest 
+34
+*.spec 
+35
+ 
+36
+# Installer logs 
+37
+pip-log.txt 
+38
+pip-delete-this-directory.txt 
+39
+ 
+40
+# Unit test / coverage reports 
+41
+htmlcov/ 
+42
+.tox/ 
+43
+.nox/ 
+44
+.coverage 
+45
+.coverage.* 
+46
+.cache 
+47
+nosetests.xml 
+48
+coverage.xml 
+49
+*.cover 
+50
+*.py,cover 
+51
+.hypothesis/ 
+52
+.pytest_cache/ 
+53
+ 
+54
+# Translations 
+55
+*.mo 
+56
+*.pot 
+57
+ 
+58
+# Django stuff: 
+59
+*.log 
+60
+local_settings.py 
+61
+db.sqlite3 
+62
+db.sqlite3-journal 
+63
+ 
+64
+# Flask stuff: 
+65
+instance/ 
+66
+.webassets-cache 
+67
+ 
+68
+# Scrapy stuff: 
+69
+.scrapy 
+70
+ 
+71
+# Sphinx documentation 
+72
+docs/_build/ 
+73
+ 
+74
+# PyBuilder 
+75
+target/ 
+76
+ 
+77
+# Jupyter Notebook 
+78
+.ipynb_checkpoints 
+79
+ 
+80
+# IPython 
+81
+profile_default/ 
+82
+ipython_config.py 
+83
+ 
+84
+# pyenv 
+85
+.python-version 
+86
+ 
+87
+# pipenv 
+88
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control. 
+89
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies 
+90
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not 
+91
+#   install all needed dependencies. 
+92
+#Pipfile.lock 
+93
+ 
+94
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow 
+95
+__pypackages__/ 
+96
+ 
+97
+# Celery stuff 
+98
+celerybeat-schedule 
+99
+celerybeat.pid 
+100
+ 
+101
+# SageMath parsed files 
+102
+*.sage.py 
+103
+ 
+104
+# Environments 
+105
+.env 
+106
+.venv 
+107
+env/ 
+108
+venv/ 
+109
+ENV/ 
+110
+env.bak/ 
+111
+venv.bak/ 
+112
+ 
+113
+# Spyder project settings 
+114
+.spyderproject 
+115
+.spyproject 
+116
+ 
+117
+# Rope project settings 
+118
+.ropeproject 
+119
+ 
+120
+# mkdocs documentation 
+121
+/site 
+122
+ 
+123
+# mypy 
+124
+.mypy_cache/ 
+125
+.dmypy.json 
+126
+dmypy.json 
+127
+ 
+128
+# Pyre type checker 
+129
+.pyre/ 
+130
+ 
+131
+# Папки, создаваемые средой разработки 
+132
+.idea 
+133
+.DS_Store 
+134
+.AppleDouble 
+135
+.LSOverride 
+136
+ 
+137
+*.sublime-project 
+138
+*.sublime-workspace 
+139
+ 
+140
+.vscode/ 
+141
+*.code-workspace 
+142
+ 
+143
+# Local History for Visual Studio Code 
+144
+.history/ 
+145
+ 
+146
+.mypy_cache 
+147
+ 
+148
+# папки со статикой и медиа 
+149
+static/ 
+150
+posts/static/ 
+151
+media/ 
+152
+ 
